@@ -1,0 +1,63 @@
+{
+  "uid" : "a839e5ac2689f84d",
+  "name" : "E:\\htestApi\\testcase\\sys.test_sys_change.Test_login_change.test_password_change1",
+  "fullName" : "testcase.E:\\htestApi\\testcase\\sys.test_sys_change.Test_login_change.test_password_change1",
+  "historyId" : "58a7d1f4ffb844dc76fcd8d920ffd22a",
+  "time" : {
+    "start" : 1554608599052,
+    "stop" : 1554608599083,
+    "duration" : 31
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2DHIVP4"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9120-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\htestApi\\testcase\\sys.test_sys_change.Test_login_change.test_password_change1"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a839e5ac2689f84d.json",
+  "parameterValues" : [ ]
+}

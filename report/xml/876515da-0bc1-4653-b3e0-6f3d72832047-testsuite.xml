@@ -1,0 +1,147 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608598936" stop="1554608599352">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608598936" status="passed" stop="1554608598998">
+      <name>test_CG_login.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608598998" status="passed" stop="1554608599052">
+      <name>E:\htestApi\testcase\sys.test_sys_change.Test_login_change.test_password_change</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码成功"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599052" status="passed" stop="1554608599083">
+      <name>E:\htestApi\testcase\sys.test_sys_change.Test_login_change.test_password_change1</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599099" status="passed" stop="1554608599121">
+      <name>E:\htestApi\testcase\sys.test_sys_getUserInfo.Test_getUserInfo.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599121" status="passed" stop="1554608599152">
+      <name>E:\htestApi\testcase\sys.test_sys_login.Test_login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="登录成功"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599152" status="passed" stop="1554608599183">
+      <name>E:\htestApi\testcase\sys.test_sys_login.Test_login.test_login_fail</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599183" status="passed" stop="1554608599199">
+      <name>E:\htestApi\testcase\sys.test_sys_login.Test_login.test_login_fail2</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599199" status="passed" stop="1554608599221">
+      <name>E:\htestApi\testcase\sys.test_sys_login.Test_login.test_login_fail3</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599221" status="passed" stop="1554608599252">
+      <name>E:\htestApi\testcase\sys.test_sys_login.Test_login.test_login_fail4</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599252" status="passed" stop="1554608599268">
+      <name>E:\htestApi\testcase\user.test_loadUserList.Test_save.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608599268" status="passed" stop="1554608599352">
+      <name>E:\htestApi\testcase\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_saveOrUpdateUser</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9120-MainThread"/>
+        <label name="host" value="DESKTOP-2DHIVP4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

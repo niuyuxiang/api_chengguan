@@ -1,0 +1,63 @@
+{
+  "uid" : "92f95e0ac5acb2c2",
+  "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+  "fullName" : "testcase.E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+  "historyId" : "9b9595f5d707364367e36ab8ddd30243",
+  "time" : {
+    "start" : 1554608599152,
+    "stop" : 1554608599183,
+    "duration" : 31
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-2DHIVP4"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9120-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92f95e0ac5acb2c2.json",
+  "parameterValues" : [ ]
+}

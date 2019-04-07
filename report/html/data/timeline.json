@@ -1,0 +1,145 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-2DHIVP4",
+    "children" : [ {
+      "name" : "9120-MainThread",
+      "children" : [ {
+        "name" : "E:\\htestApi\\testcase\\user.test_saveOrUpdateUser.Test_saveOrUpdateUser.test_saveOrUpdateUser",
+        "uid" : "5ab6a01f650eaec9",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599268,
+          "stop" : 1554608599352,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail3",
+        "uid" : "3413ce384e104a2d",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599199,
+          "stop" : 1554608599221,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_change.Test_login_change.test_password_change1",
+        "uid" : "a839e5ac2689f84d",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599052,
+          "stop" : 1554608599083,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail",
+        "uid" : "92f95e0ac5acb2c2",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599152,
+          "stop" : 1554608599183,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail4",
+        "uid" : "d2cb7ad4f8b1929f",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599221,
+          "stop" : 1554608599252,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_CG_login.test_login",
+        "uid" : "5ee88ff13a70f13",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608598936,
+          "stop" : 1554608598998,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_fail2",
+        "uid" : "87d386fe5fe7901b",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599183,
+          "stop" : 1554608599199,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_change.Test_login_change.test_password_change",
+        "uid" : "a17d3f7a15ceff55",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608598998,
+          "stop" : 1554608599052,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_getUserInfo.Test_getUserInfo.test_login_success",
+        "uid" : "51c2b10129512137",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599099,
+          "stop" : 1554608599121,
+          "duration" : 22
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\user.test_loadUserList.Test_save.test_login_success",
+        "uid" : "61385febd46b7987",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599252,
+          "stop" : 1554608599268,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\htestApi\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+        "uid" : "b8d3d0329c7fb425",
+        "parentUid" : "e7565b6de41a1f90f8feac76fdf11028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608599121,
+          "stop" : 1554608599152,
+          "duration" : 31
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7565b6de41a1f90f8feac76fdf11028"
+    } ],
+    "uid" : "f0b964e1ddf11dee9db27f0a0dac4083"
+  } ]
+}
